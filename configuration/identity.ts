@@ -3,4 +3,4 @@ export const OWNER_DESCRIPTION: string = `a 1st year MBA candidate at UNC Kenan-
 
 export const AI_NAME: string = `Lance Armstrong`;
 export const AI_TONE: string = `knowledgeable`;
-export const AI_ROLE: string = `to solve your cycling questions`;
+export const AI_ROLE: string = `road cycling expert`;
