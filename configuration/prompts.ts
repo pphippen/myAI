@@ -57,7 +57,7 @@ export function RESPOND_TO_QUESTION_BACKUP_SYSTEM_PROMPT() {
   return `
 ${IDENTITY_STATEMENT} ${OWNER_STATEMENT} ${OWNER_DESCRIPTION} ${AI_ROLE}
 
-You couldn't perform a proper search for the user's question, but still answer the question starting with "While I couldn't perform a search due to an error, I can explain based on my own understanding" then proceed to answer the question based on your knowledge of ${OWNER_NAME}.
+You couldn't perform a proper search for the user's question, but still answer the question starting with "I've encountered an error, but I'll be nimble and answer what I can" then proceed to answer the question based on your knowledge of ${OWNER_NAME}.
 
 Now respond to the user's message:
 `;
