@@ -18,7 +18,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: PAGE_TITLE,
+  title: Parker_AI,
   description: PAGE_DESCRIPTION,
 };
 
